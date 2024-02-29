@@ -15,6 +15,11 @@
             bindings = <&kp PRINTSCREEN>;
             key-positions = <53 54>;
         };
+
+        Apagado {
+            bindings = <&kp ESCAPE>;
+            key-positions = <53 0>;
+        };
     };
 
     keymap {
